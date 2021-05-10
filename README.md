@@ -22,4 +22,6 @@ There recently was an election for the US Congressional Precinct in Colorado. An
  
 - Diana DeGette won the election with 73.8% of the votes, by receiving 272,892 votes of the total 369,711 votes. 
 
+![image_name](Election_Analysis_Summary_Results.png)
+
 ## Election-Audit Summary 
