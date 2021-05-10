@@ -6,4 +6,8 @@ There recently was an election for the US Congressional Precinct in Colorado. An
 
 ## Election-Audit Results
 
+- The total number of votes cast in the election was 369,711.
+- The counties included in the race were Jefferson, Denver & Arapahoe
+- 
+
 ## Election-Audit Summary 
