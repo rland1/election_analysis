@@ -2,7 +2,7 @@
 
 ## Overview of Election Audit
 
-There recently was an election for the US Congressional Precinct in Colorado. An employee from the Colorado Board of Election Committee is requesting support to summarize the results using python. These results will aid in automating the process of auditing and certifying this election, other congressional disticts, and local elections. 
+There recently was an election for the US Congressional Precinct in Colorado. An employee from the Colorado Board of Election Committee is requesting support to summarize the results using python. These results will aid in automating the process of auditing and certifying this election, other congressional disticts, and local elections. This analysis also includes more granular statistics like percentage of votes for each county, voter turnout for each county and which had the highest turnout also. 
 
 ## Election-Audit Results
 
@@ -25,3 +25,4 @@ There recently was an election for the US Congressional Precinct in Colorado. An
 ![image_name](Resources/Election_Analysis_Summary_Results.png)
 
 ## Election-Audit Summary 
+The script provided for this election audit can be altered to fit any other type of election desired. For example, in this election we were looking at the results by county, however we could look at it by state or also by city. The setup for this would be very similar to the setup now, we would just have to ensure that the city or state data is also in the election_results.csv, and then summarize by city or state instead of by county. 
