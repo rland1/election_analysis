@@ -16,8 +16,8 @@ There recently was an election for the US Congressional Precinct in Colorado. An
 - Denver had the largets number of votes by county.
 
 - The candidates in the race were Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane.
-  - Charles Casper Stockham received 23.0% of the votes, which was 85,213 of the total votes
-  - Diana DeGette received 73.8% of the votes, which was 272,892 of the total votes
+  - Charles Casper Stockham received 23.0% of the votes, which was 85,213 of the total votes.
+  - Diana DeGette received 73.8% of the votes, which was 272,892 of the total votes.
   - Raymon Anthony Doane received 3.1% of the votes, which was 11,606 of the total votes
  
 - Diana DeGette won the election with 73.8% of the votes, by receiving 272,892 votes of the total 369,711 votes. 
